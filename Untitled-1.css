@@ -1,0 +1,12 @@
+.name{
+    font-family: Georgia;
+   color: rgba(173, 86, 207, 0.89);
+   text-align: center;
+   padding-top: 10px; 
+   padding-bottom: 20px;
+   background-color: rgb(107, 76, 180);
+   margin: 0px;
+}
+body{
+    background-color: rgb(146, 74, 175);
+}
